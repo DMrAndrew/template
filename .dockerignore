@@ -1,0 +1,16 @@
+.git/
+node_modules/
+vendor/
+storage/logs/*
+public/storage
+public/hot
+public/storage
+.env
+.env.production
+docker-compose.yml
+docker-compose.override.yml
+tests/
+coverage/
+*.md
+*.txt
+*.log
